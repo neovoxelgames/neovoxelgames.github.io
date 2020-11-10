@@ -8,36 +8,36 @@
     </head>
     <body>
     <strong>Privacy Policy</strong> <p>
-                  [Developer/Company name] built the Pixel Strategy 3D - Battles and Adventures app as
-                  [open source/free/freemium/ad-supported/commercial] app. This SERVICE is provided by
-                  [Developer/Company name] [at no cost] and is intended for use as
+                  Neovoxel Games built the Pixel Strategy 3D - Battles and Adventures app as
+                  a Freemium app. This SERVICE is provided by
+                  Neovoxel Games at no cost and is intended for use as
                   is.
                 </p> <p>
-                  This page is used to inform visitors regarding [my/our]
+                  This page is used to inform visitors regarding my
                   policies with the collection, use, and disclosure of Personal
-                  Information if anyone decided to use [my/our] Service.
+                  Information if anyone decided to use my Service.
                 </p> <p>
-                  If you choose to use [my/our] Service, then you agree to
+                  If you choose to use my Service, then you agree to
                   the collection and use of information in relation to this
-                  policy. The Personal Information that [I/We] collect is
-                  used for providing and improving the Service. [I/We] will not use or share your information with
+                  policy. The Personal Information that I collect is
+                  used for providing and improving the Service. I will not use or share your information with
                   anyone except as described in this Privacy Policy.
                 </p> <p>
                   The terms used in this Privacy Policy have the same meanings
                   as in our Terms and Conditions, which is accessible at
                   Pixel Strategy 3D - Battles and Adventures unless otherwise defined in this Privacy Policy.
                 </p> <p><strong>Information Collection and Use</strong></p> <p>
-                  For a better experience, while using our Service, [I/We]
+                  For a better experience, while using our Service, I
                   may require you to provide us with certain personally
-                  identifiable information[add whatever else you collect here, e.g. users name, address, location, pictures] The information that
-                  [I/We] request will be [retained on your device and is not collected by [me/us] in any way]/[retained by us and used as described in this privacy policy].
+                  identifiable information. The information that
+                  I request will be retained on your device and is not collected by me in any way.
                 </p> <div><p>
                     The app does use third party services that may collect
                     information used to identify you.
                   </p> <p>
                     Link to privacy policy of third party service providers used
                     by the app
-                  </p> <ul><li><a href="https://www.google.com/policies/privacy/" target="_blank" rel="noopener noreferrer">Google Play Services</a></li><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><li><a href="https://unity3d.com/legal/privacy-policy" target="_blank" rel="noopener noreferrer">Unity</a></li><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----></ul></div> <p><strong>Log Data</strong></p> <p>
+                  </p> <ul><li><a href="https://www.google.com/policies/privacy/" target="_blank" rel="noopener noreferrer">Google Play Services</a></li><li><a href="https://support.google.com/admob/answer/6128543?hl=en" target="_blank" rel="noopener noreferrer">AdMob</a></li><!----><!----><li><a href="https://www.facebook.com/about/privacy/update/printable" target="_blank" rel="noopener noreferrer">Facebook</a></li><!----><!----><!----><!----><!----><!----><li><a href="https://unity3d.com/legal/privacy-policy" target="_blank" rel="noopener noreferrer">Unity</a></li><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----></ul></div> <p><strong>Log Data</strong></p> <p>
                   I want to inform you that whenever you
                   use my Service, in a case of an error in the app
                   I collect data and information (through third party
@@ -96,14 +96,15 @@
                   personal information, please contact me so that
                   I will be able to do necessary actions.
                 </p> <p><strong>Changes to This Privacy Policy</strong></p> <p>
-                  [I/We] may update our Privacy Policy from
+                  I may update our Privacy Policy from
                   time to time. Thus, you are advised to review this page
-                  periodically for any changes. [I/We] will
+                  periodically for any changes. I will
                   notify you of any changes by posting the new Privacy Policy on
                   this page.
-                </p> <p>This policy is effective as of 2020-11-09</p> <p><strong>Contact Us</strong></p> <p>
-                  If you have any questions or suggestions about [my/our]
-                  Privacy Policy, do not hesitate to contact [me/us] at sup.games99@gmail.com.
+                </p> <p>This policy is effective as of 2020-11-11</p> <p><strong>Contact Us</strong></p> <p>
+                  If you have any questions or suggestions about my
+                  Privacy Policy, do not hesitate to contact me at sup.games99@gmail.com.
                 </p> <p>This privacy policy page was created at <a href="https://privacypolicytemplate.net" target="_blank" rel="noopener noreferrer">privacypolicytemplate.net </a>and modified/generated by <a href="https://app-privacy-policy-generator.nisrulz.com/" target="_blank" rel="noopener noreferrer">App Privacy Policy Generator</a></p>
     </body>
     </html>
+      
