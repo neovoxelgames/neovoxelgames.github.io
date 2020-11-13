@@ -8,7 +8,7 @@
     </head>
     <body>
     <strong>Privacy Policy</strong> <p>
-                  Neovoxel Games built the Pixel Strategy 3D - Battles and Adventures app as
+                  Neovoxel Games built the Pixel Tribes 3D - Battles and Adventures app as
                   a Freemium app. This SERVICE is provided by
                   Neovoxel Games at no cost and is intended for use as
                   is.
@@ -25,7 +25,7 @@
                 </p> <p>
                   The terms used in this Privacy Policy have the same meanings
                   as in our Terms and Conditions, which is accessible at
-                  Pixel Strategy 3D - Battles and Adventures unless otherwise defined in this Privacy Policy.
+                  Pixel Tribes 3D - Battles and Adventures unless otherwise defined in this Privacy Policy.
                 </p> <p><strong>Information Collection and Use</strong></p> <p>
                   For a better experience, while using our Service, I
                   may require you to provide us with certain personally
